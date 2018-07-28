@@ -9,15 +9,20 @@ The model gave an accuracy of 77%  on the test dataset.
 
 Dataset used in Publications:
 
-1. Gavin Brown. Diversity in Neural Network Ensembles. The University of Birmingham. 2004. ftp://ftp.cs.bham.ac.uk/pub/authors/J.L.Wyatt/gxb_thesis.pdf
+1. Gavin Brown. Diversity in Neural Network Ensembles. The University of Birmingham. 2004. 
+
+ftp://ftp.cs.bham.ac.uk/pub/authors/J.L.Wyatt/gxb_thesis.pdf
 
 2. Igor Kononenko and Edvard Simec and Marko Robnik-Sikonja. Overcoming the Myopia of Inductive Learning Algorithms with RELIEFF. Appl. Intell, 7. 1997. 
+
 https://link.springer.com/article/10.1023/A:1008280620621
 
 3. Elena Smirnova and Ida G. Sprinkhuizen-Kuyper and I. Nalbantis and b. ERIM and Universiteit Rotterdam. Unanimous Voting using Support Vector Machines. IKAT, Universiteit Maastricht.
+
 https://pdfs.semanticscholar.org/b97d/3eeb77c2511b8852477bf8d159193337ce84.pdf
 
 4. Alexander K. Seewald. Dissertation Towards Understanding Stacking Studies of a General Ensemble Learning Scheme ausgefuhrt zum Zwecke der Erlangung des akademischen Grades eines Doktors der technischen Naturwissenschaften.
+
 https://www.seewald.at/files/2003-05.pdf
 
 
