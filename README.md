@@ -9,7 +9,7 @@ The model gave an accuracy of 77%  on the test dataset.
 
 Dataset used in Publications:
 
-1. Gavin Brown. Diversity in Neural Network Ensembles. The University of Birmingham. 2004. ftp://ftp.cs.bham.ac.uk/pub/authors/J.L.Wyatt/gxb_thesis.pdf.
+1. Gavin Brown. Diversity in Neural Network Ensembles. The University of Birmingham. 2004. ftp://ftp.cs.bham.ac.uk/pub/authors/J.L.Wyatt/gxb_thesis.pdf
 
 2. Igor Kononenko and Edvard Simec and Marko Robnik-Sikonja. Overcoming the Myopia of Inductive Learning Algorithms with RELIEFF. Appl. Intell, 7. 1997. 
 https://link.springer.com/article/10.1023/A:1008280620621
