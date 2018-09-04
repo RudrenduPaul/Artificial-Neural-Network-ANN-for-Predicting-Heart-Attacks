@@ -5,7 +5,7 @@ Data: The dataset consists of 303 instances of data with 14 different attributes
 
 Conclusions: The data set was split into a 80-20 ratio for training and test data sets respectively. The ANN model was first trainied on the training data set. 
 
-The model gave an accuracy of 77%  on the test dataset.
+The model gave an accuracy of 81%  on the test dataset.
 
 Dataset used in Publications:
 
